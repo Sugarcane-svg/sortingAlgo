@@ -1,6 +1,6 @@
 # Sorting Algo
 
-1. HeapSort
+HeapSort
 
 	left()   //get left child index
 	right()   //get right child index
